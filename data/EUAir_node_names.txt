@@ -1,0 +1,417 @@
+Larnaca International Airport
+Frankfurt am Main Airport
+Cologne Bonn Airport
+East Midlands Airport
+Exeter International Airport
+Adnan Menderes International Airport
+Charles de Gaulle International Airport
+Toulouse-Blagnac Airport
+Newcastle Airport
+Leipzig/Halle Airport
+Il Caravaggio International Airport
+London Stansted Airport
+Bursa Yenişehir Airport
+Eleftherios Venizelos International Airport
+Amsterdam Airport Schiphol
+Antalya International Airport
+Birmingham International Airport
+Edinburgh Airport
+Liège Airport
+Bologna Guglielmo Marconi Airport
+Belfast International Airport
+Brussels Airport
+Adana Airport
+Atatürk International Airport
+Gaziantep International Airport
+Václav Havel Airport Prague
+Copenhagen Kastrup Airport
+Stockholm-Arlanda Airport
+Esenboğa International Airport
+Kraków John Paul II International Airport
+Oslo Gardermoen Airport
+Billund Airport
+Berlin-Schönefeld Airport
+Malpensa International Airport
+Gdańsk Lech Wałęsa Airport
+Sabiha Gökçen International Airport
+Ibiza Airport
+Munich Airport
+Vitoria/Foronda Airport
+Barcelona International Airport
+Ben Gurion International Airport
+Warsaw Chopin Airport
+Münster Osnabrück Airport
+Malmö Sturup Airport
+Nuremberg Airport
+M. R. Štefánik Airport
+Maastricht Aachen Airport
+Henri Coandă International Airport
+Shannon Airport
+Adolfo Suárez Madrid–Barajas Airport
+Katowice International Airport
+Heraklion International Nikos Kazantzakis Airport
+London Luton Airport
+Hannover Airport
+Budapest Liszt Ferenc International Airport
+Dortmund Airport
+Palma De Mallorca Airport
+Lyon Saint-Exupéry Airport
+Marseille Provence Airport
+Dalaman International Airport
+Manchester Airport
+Venice Marco Polo Airport
+Nantes Atlantique Airport
+Vienna International Airport
+Thessaloniki Macedonia International Airport
+Zürich Airport
+Berlin-Tegel Airport
+EuroAirport Basel-Mulhouse-Freiburg Airport
+Turku Airport
+Ljubljana Jože Pučnik Airport
+London Heathrow Airport
+Kos Airport
+Samsun Çarşamba Airport
+Hatay Airport
+Copernicus Wrocław Airport
+Ciampino–G. B. Pastine International Airport
+Helsinki Vantaa Airport
+Riga International Airport
+Vilnius International Airport
+Milano Linate Airport
+Stockholm Västerås Airport
+Lennart Meri Tallinn Airport
+Leonardo da Vinci–Fiumicino Airport
+Graz Airport
+Diagoras Airport
+Varna Airport
+Ioannis Kapodistrias International Airport
+Chania International Airport
+Tirana International Airport Mother Teresa
+Kefallinia Airport
+Santorini Airport
+Skopje Alexander the Great Airport
+Mytilene International Airport
+Diyarbakir Airport
+Bordeaux-Mérignac Airport
+Málaga Airport
+Tromsø Airport
+Bodø Airport
+Linz Hörsching Airport
+Erfurt Airport
+Geneva Cointrin International Airport
+Sitia Airport
+Zakynthos International Airport "Dionysios Solomos"
+Limnos Airport
+Cluj-Napoca International Airport
+Catania-Fontanarossa Airport
+Dublin Airport
+Timişoara Traian Vuia Airport
+Chios Island National Airport
+Samos Airport
+Sofia Airport
+Poprad-Tatry Airport
+Milos Airport
+Brno-Tuřany Airport
+Transilvania Târgu Mureş International Airport
+Paris Beauvais Tillé Airport
+Robin Hood Doncaster Sheffield Airport
+Dimokritos Airport
+Durham Tees Valley Airport
+Stuttgart Airport
+Košice Airport
+Trabzon International Airport
+Iaşi Airport
+Sibiu International Airport
+Malatya Erhaç Airport
+Paros National Airport
+Paderborn Lippstadt Airport
+Oulu Airport
+Svolvær Helle Airport
+Zaragoza Air Base
+Rovaniemi Airport
+Brussels South Charleroi Airport
+Vaasa Airport
+Tampere-Pirkkala Airport
+Kuopio Airport
+Konya Airport
+Kaunas International Airport
+Francisco de Sá Carneiro Airport
+Rennes-Saint-Jacques Airport
+Sandnessjøen Airport (Stokka)
+Sivas Nuri Demirağ Airport
+Kajaani Airport
+Vadsø Airport
+Mehamn Airport
+Kayseri Erkilet Airport
+Dresden Airport
+Mosjøen Airport (Kjærstad)
+Anadolu Airport
+Banak Airport
+Erzurum International Airport
+Milas Bodrum International Airport
+Humberside Airport
+Kahramanmaraş Airport
+Gothenburg City Airport
+Belgrade Nikola Tesla Airport
+Menorca Airport
+Düsseldorf Airport
+Stokmarknes Skagen Airport
+Leknes Airport
+Paris-Orly Airport
+Ostrava Leos Janáček Airport
+Kirkenes Airport (Høybuktmoen)
+Friedrichshafen Airport
+Faro Airport
+Ağrı Airport
+Poznań-Ławica Airport
+Kiruna Airport
+Luleå Airport
+Joensuu Airport
+Hamburg Airport
+Zadar Airport
+Bilbao Airport
+Mardin Airport
+Palanga International Airport
+Bergen Airport Flesland
+Haugesund Airport
+Andøya Airport
+Harstad/Narvik Airport, Evenes
+Adıyaman Airport
+Luxembourg-Findel International Airport
+Çardak Airport
+Salzburg Airport
+Burgas Airport
+Bremen Airport
+Łódź Władysław Reymont Airport
+Hasvik Airport
+Nice-Côte d'Azur Airport
+Alta Airport
+Trondheim Airport Værnes
+Stavanger Airport Sola
+Băneasa International Airport
+Klagenfurt Airport
+Alicante International Airport
+Alghero-Fertilia Airport
+Moss Airport, Rygge
+Malta International Airport
+Liverpool John Lennon Airport
+Sevilla Airport
+Valencia Airport
+Şanlıurfa GAP Airport
+Eindhoven Airport
+Valan Airport
+Humberto Delgado Airport (Lisbon Portela Airport)
+Lamezia Terme Airport
+Kristiansund Airport (Kvernberget)
+Elazığ Airport
+Zagreb Airport
+Sandefjord Airport, Torp
+Bari Karol Wojtyła Airport
+Van Ferit Melen Airport
+Brønnøysund Airport
+Weeze Airport
+Naples International Airport
+Girona Airport
+Innsbruck Airport
+Split Airport
+Mo i Rana Airport, Røssvoll
+Rørvik Airport, Ryum
+Kars Airport
+Linköping City Airport
+Cagliari Elmas Airport
+Kristiansand Airport
+Reggio Calabria Airport
+St Gallen Altenrhein Airport
+Frankfurt-Hahn Airport
+Olbia Costa Smeralda Airport
+Molde Airport
+Saarbrücken Airport
+Gothenburg-Landvetter Airport
+Aalborg Airport
+Ørsta-Volda Airport, Hovden
+Kalmar Airport
+Karpathos Airport
+Kasos Airport
+Karlsruhe Baden-Baden Airport
+Reus Air Base
+London Gatwick Airport
+Nevşehir Kapadokya Airport
+Dubrovnik Airport
+Vincenzo Florio Airport Trapani-Birgi
+Pisa International Airport
+Namsos Høknesøra Airport
+Bardufoss Airport
+missing259
+Skellefteå Airport
+Stockholm Skavsta Airport
+Santander Airport
+Parma Airport
+Sarajevo International Airport
+Santiago de Compostela Airport
+Skien Airport
+Genoa Cristoforo Colombo Airport
+Pescara International Airport
+Førde Airport
+Trieste–Friuli Venezia Giulia Airport
+Madeira Airport
+Erzincan Airport
+Umeå Airport
+Pamplona Airport
+Jerez Airport
+Verona Villafranca Airport
+Lappeenranta Airport
+Turin Airport
+Ängelholm-Helsingborg Airport
+Aarhus Airport
+Leon Airport
+Toulon-Hyères Airport
+Peretola Airport
+London City Airport
+Hammerfest Airport
+Ancona Falconara Airport
+Asturias Airport
+Szczecin-Goleniów "Solidarność" Airport
+Falcone–Borsellino Airport
+Salerno Costa d'Amalfi Airport
+Sogndal Airport
+Sandane Airport (Anda)
+Glasgow Prestwick Airport
+Brindisi – Salento Airport
+Åre Östersund Airport
+A Coruña Airport
+Strasbourg Airport
+Sundsvall-Härnösand Airport
+Stockholm-Bromma Airport
+Almería International Airport
+Braunschweig-Wolfsburg Airport
+Bristol Airport
+Aberdeen Dyce Airport
+Biarritz-Anglet-Bayonne Airport
+Glasgow International Airport
+Cardiff International Airport
+Memmingen Allgau Airport
+Ålesund Airport
+Cork Airport
+Federico Garcia Lorca Airport
+San Javier Airport
+Karup Airport
+Antwerp International Airport (Deurne)
+Rotterdam The Hague Airport
+Montpellier-Méditerranée Airport
+Vigo Airport
+Crotone Airport
+Syros Airport
+Perugia San Francesco d'Assisi – Umbria International Airport
+Lugano Airport
+Bastia-Poretta Airport
+Narvik Framnes Airport
+Norwich International Airport
+Valladolid Airport
+Tartu Airport
+Leros Airport
+Bergerac-Roumanière Airport
+Ireland West Knock Airport
+Nîmes-Arles-Camargue Airport
+Alexander the Great International Airport
+Berlevåg Airport
+Salamanca Airport
+missing339
+San Sebastian Airport
+Rostock-Laage Airport
+Kalymnos Airport
+Leeds Bradford Airport
+George Best Belfast City Airport
+Rzeszów-Jasionka Airport
+Lübeck Blankensee Airport
+Carcassonne Airport
+Bydgoszcz Ignacy Jan Paderewski Airport
+Gibraltar Airport
+Southampton Airport
+Mikonos Airport
+Isle of Man Airport
+Skiathos Island National Airport
+Paphos International Airport
+Bournemouth Airport
+Sørkjosen Airport
+Inverness Airport
+Jersey Airport
+Paris-Le Bourget Airport
+Châteauroux-Déols "Marcel Dassault" Airport
+Limoges Airport
+Guernsey Airport
+Federico Fellini International Airport
+Osijek Airport
+Røst Airport
+Muş Airport
+London Biggin Hill Airport
+Badajoz Airport
+Ronneby Airport
+Newquay Cornwall Airport
+Båtsfjord Airport
+Batman Airport
+Albacete-Los Llanos Airport
+Kerry Airport
+Rijeka Airport
+João Paulo II Airport
+Vardø Airport, Svartnes
+Sinop Airport
+Torrejón Airport
+Lajes Airport
+RAF Northolt
+Westerland Sylt Airport
+Farnborough Airport
+Chişinău International Airport
+Figari Sud-Corse Airport
+Eelde Airport
+Perpignan-Rivesaltes (Llabanère) Airport
+Cambridge Airport
+Kithira Airport
+Avignon-Caumont Airport
+Saint-Étienne-Bouthéon Airport
+Forlì Airport
+Frankfurt-Egelsbach Airport
+Cuneo International Airport
+missing399
+La Rochelle-Île de Ré Airport
+Châlons-Vatry Airport
+Cannes-Mandelieu Airport
+Brest Bretagne Airport
+Ioannina Airport
+Cotswold Airport
+Kuusamo Airport
+Tivat Airport
+Kent International Airport
+Metz-Nancy-Lorraine Airport
+Jönköping Airport
+Pau Pyrénées Airport
+Örebro Airport
+Galway Airport
+Calvi-Sainte-Catherine Airport
+Svalbard Airport, Longyear
+Lille-Lesquin Airport
+Évora Airport
+Rodez-Marcillac Airport
+Astypalaia Airport
+Béziers-Vias Airport
+Ikaria Airport
+Podgorica Airport
+Poitiers-Biard Airport
+Tours-Val-de-Loire Airport
+Borlange Airport
+Ajaccio-Napoléon Bonaparte Airport
+City of Derry Airport
+Kalamata Airport
+Bern Belp Airport
+missing437
+Schwerin Parchim Airport
+Denham Aerodrome
+Siena-Ampugnano Airport
+Burgos Airport
+Hawarden Airport
+Ivalo Airport
+Naxos Airport
+Le Mans-Arnage Airport
+Kittilä Airport
+Cochstedt Airport
+Dinard-Pleurtuit-Saint-Malo Airport
+Žilina Airport
