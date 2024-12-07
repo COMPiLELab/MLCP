@@ -4,7 +4,7 @@ Core-periphery detection in multilayer networks
 This code implements the numerical experiments of the
 
 **Paper:**
-[1] Kai Bergermann and Francesco Tudisco. Core-periphery detection in multilayer networks. Preprint. 2024.
+[1] Kai Bergermann and Francesco Tudisco. Core-periphery detection in multilayer networks. Preprint, [arXiv:2412.04179](http://arxiv.org/abs/2412.04179). 2024.
 
 This repository contains:
 
