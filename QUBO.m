@@ -14,7 +14,7 @@ file_str = ['openalex_fully_weighted_year_',year,'_a_10_b_10_p_22_q_22'];
 % file_str = 'EUAir_a_10_b_10_p_22_q_22';
 
 % WIOT
-% year = '2014';
+% year = '2000';
 % file_str = ['WIOT_',year,'_a_10_b_10_p_22_q_22'];
 
 %% load coreness vectors and supra-adjacency matrix

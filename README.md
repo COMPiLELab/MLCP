@@ -18,4 +18,4 @@ This repository contains:
  
 **Scripts:**
  - MLNSM.jl: julia code applying [Algorithm 1, 1] to the multilayer networks described in [1]
- - QUBO.m: Matlab code determining node and layer core sizes based on the node and layer coreness vectors optimized by 'MLNSM.jl'
+ - QUBO.jl/QUBO.m: julia and Matlab codes (identical implementations in the two languages) determining node and layer core sizes based on the node and layer coreness vectors optimized by 'MLNSM.jl'
